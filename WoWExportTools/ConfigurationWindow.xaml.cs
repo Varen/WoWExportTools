@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Configuration;
 using System.IO;
 using System.Windows;
+using Microsoft.WindowsAPICodePack.Dialogs;
 
 namespace OBJExporterUI
 {
@@ -256,16 +257,14 @@ namespace OBJExporterUI
 
         private void OutdirBrowse_Click(object sender, RoutedEventArgs e)
         {
-            var dialog = new System.Windows.Forms.FolderBrowserDialog();
-            var result = dialog.ShowDialog();
-            if (result.ToString() == "OK")
+            var dialog = new CommonOpenFileDialog {IsFolderPicker = true, InitialDirectory = Directory.GetCurrentDirectory()};
+            
+            if(dialog.ShowDialog() == CommonFileDialogResult.Ok)
             {
-                if((string)outdirLabel.Content != dialog.SelectedPath)
-                {
-                    outdirLabel.Content = dialog.SelectedPath;
-                    needsRestart = true;
-                }
+                outdirLabel.Content = dialog.FileName;
+                needsRestart = true;
             }
+
         }
     }
 }

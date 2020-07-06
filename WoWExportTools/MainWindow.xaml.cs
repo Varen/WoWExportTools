@@ -13,8 +13,16 @@ using System.Drawing.Imaging;
 using System.Windows.Media.Imaging;
 using System.Net;
 using System.IO.Compression;
+using System.Windows.Forms;
+using System.Windows.Input;
 using Microsoft.VisualBasic.FileIO;
 using System.Windows.Media;
+using Application = System.Windows.Application;
+using CheckBox = System.Windows.Controls.CheckBox;
+using Clipboard = System.Windows.Clipboard;
+using KeyEventArgs = System.Windows.Input.KeyEventArgs;
+using ListBox = System.Windows.Controls.ListBox;
+using MessageBox = System.Windows.MessageBox;
 
 namespace OBJExporterUI
 {
@@ -60,12 +68,12 @@ namespace OBJExporterUI
             {
                 Close();
             }
-
+            File.Delete("LastFile.log");
             InitializeComponent();
 
             tileBox = tileListBox;
 
-            Title = "Marlamin's WoW Exporter " + System.Reflection.Assembly.GetExecutingAssembly().GetName().Version.ToString();
+            Title = "Varen's edit for 735 Noggit of Marlamin's WoW Exporter " + System.Reflection.Assembly.GetExecutingAssembly().GetName().Version.ToString();
 
             previewControl = new PreviewControl(renderCanvas);
             CompositionTarget.Rendering += previewControl.CompositionTarget_Rendering;
@@ -518,6 +526,19 @@ namespace OBJExporterUI
                 previewControl.LoadModel((string)modelListBox.SelectedItem);
             }
         }
+
+        private void ListBox1_KeyDown(object sender, KeyEventArgs keyEventArgs)
+        {
+            if (keyEventArgs.Key == Key.C && (Keyboard.Modifiers == ModifierKeys.Control))
+            {
+                System.Text.StringBuilder copy_buffer = new System.Text.StringBuilder();
+                foreach (object item in modelListBox.SelectedItems)
+                    copy_buffer.AppendLine(item.ToString());
+                if (copy_buffer.Length > 0)
+                    Clipboard.SetText(copy_buffer.ToString());
+            }
+        }
+
         private void ModelCheckBoxChanged(object sender, RoutedEventArgs e)
         {
             if (exportButton == null) { return; }

@@ -61,6 +61,13 @@ namespace OBJExporterUI
             viewportSize(Width, Height);
         }
 
+
+        public void processScrollInput(float scrollVal)
+        {
+                Pos += (Target * (scrollVal) * stepSize);
+
+        }
+
         public void processKeyboardInput(KeyboardState state)
         {
             if (state.IsKeyDown(Key.W))

@@ -1,0 +1,60 @@
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\obj\Debug\OBJExporterUI.csprojAssemblyReference.cache
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\obj\Debug\ConfigurationWindow.baml
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\obj\Debug\MainWindow.baml
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\obj\Debug\ConfigurationWindow.g.cs
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\obj\Debug\MainWindow.g.cs
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\obj\Debug\MapWindow.g.cs
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\obj\Debug\VersionWindow.g.cs
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\obj\Debug\App.g.cs
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Debug\Utils\Blender plugins\io_scene_adt\import_adtobj.py
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Debug\Utils\Blender plugins\io_scene_adt\__init__.py
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Debug\Utils\Blender plugins\io_scene_wmo\import_wmoobj.py
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Debug\Utils\Blender plugins\io_scene_wmo\__init__.py
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Debug\Utils\Blender plugins\readme.txt
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Debug\Utils\Cinema 4D plugin (by Remo Pini)\res\c4d_symbols.h
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Debug\Utils\Cinema 4D plugin (by Remo Pini)\res\Icon.tif
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Debug\Shaders\m2.fragment.shader
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Debug\Shaders\adt.vertex.shader
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Debug\Shaders\m2.vertex.shader
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Debug\Shaders\wmo.vertex.shader
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Debug\Shaders\adt.fragment.shader
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Debug\Shaders\wmo.fragment.shader
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Debug\Shaders\baketexture.vertex.shader
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Debug\Shaders\baketexture.fragment.shader
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Debug\Utils\Cinema 4D plugin (by Remo Pini)\readme.pdf
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Debug\Utils\Cinema 4D plugin (by Remo Pini)\wow_import.pyp
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Debug\Shaders\bakeFullMinimap.fragment.shader
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Debug\Shaders\bakeFullMinimap.vertex.shader
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Debug\CascLib.dll
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Debug\DBFilesClient2.NET.dll
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Debug\Newtonsoft.Json.dll
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Debug\OpenTK.dll
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Debug\OpenTK.GLControl.dll
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Debug\WoWFormatLib.dll
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Debug\Newtonsoft.Json.xml
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Debug\OpenTK.xml
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Debug\OpenTK.GLControl.xml
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\obj\Debug\MapWindow.baml
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\obj\Debug\VersionWindow.baml
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\obj\Debug\OBJExporterUI.Properties.Resources.resources
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\obj\Debug\OBJExporterUI.csproj.GenerateResource.cache
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\obj\Debug\OBJExporterUI.csproj.CoreCompileInputs.cache
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\obj\Debug\OBJExporterUI.csproj.CopyComplete
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.pdb
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Debug\OBJExporterUI-NoggitEdit.exe.config
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Debug\OBJExporterUI-NoggitEdit.exe
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Debug\OBJExporterUI-NoggitEdit.pdb
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\obj\Debug\OBJExporterUI-NoggitEdit_Content.g.cs
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\obj\Debug\OBJExporterUI-NoggitEdit_MarkupCompile.cache
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\obj\Debug\OBJExporterUI-NoggitEdit_MarkupCompile.lref
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\obj\Debug\OBJExporterUI-NoggitEdit.g.resources
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\obj\Debug\OBJExporterUI-NoggitEdit.exe
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\obj\Debug\OBJExporterUI-NoggitEdit.pdb

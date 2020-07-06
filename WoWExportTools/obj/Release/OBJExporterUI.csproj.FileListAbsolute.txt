@@ -1,0 +1,57 @@
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Release\Utils\Blender plugins\io_scene_adt\import_adtobj.py
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Release\Utils\Blender plugins\io_scene_adt\__init__.py
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Release\Utils\Blender plugins\io_scene_wmo\import_wmoobj.py
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Release\Utils\Blender plugins\io_scene_wmo\__init__.py
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Release\Utils\Blender plugins\readme.txt
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Release\Utils\Cinema 4D plugin (by Remo Pini)\res\c4d_symbols.h
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Release\Utils\Cinema 4D plugin (by Remo Pini)\res\Icon.tif
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Release\Shaders\m2.fragment.shader
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Release\Shaders\adt.vertex.shader
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Release\Shaders\m2.vertex.shader
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Release\Shaders\wmo.vertex.shader
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Release\Shaders\adt.fragment.shader
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Release\Shaders\wmo.fragment.shader
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Release\Shaders\baketexture.vertex.shader
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Release\Shaders\baketexture.fragment.shader
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Release\Utils\Cinema 4D plugin (by Remo Pini)\readme.pdf
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Release\Utils\Cinema 4D plugin (by Remo Pini)\wow_import.pyp
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Release\Shaders\bakeFullMinimap.fragment.shader
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Release\Shaders\bakeFullMinimap.vertex.shader
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Release\OBJExporterUI-NoggitEdit.exe.config
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Release\OBJExporterUI-NoggitEdit.exe
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Release\CascLib.dll
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Release\DBFilesClient2.NET.dll
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Release\Microsoft.WindowsAPICodePack.dll
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Release\Microsoft.WindowsAPICodePack.Shell.dll
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Release\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Release\Newtonsoft.Json.dll
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Release\OpenTK.dll
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Release\OpenTK.GLControl.dll
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Release\WoWFormatLib.dll
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Release\Microsoft.WindowsAPICodePack.pdb
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Release\Microsoft.WindowsAPICodePack.xml
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Release\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Release\Microsoft.WindowsAPICodePack.Shell.xml
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Release\Microsoft.WindowsAPICodePack.ShellExtensions.pdb
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Release\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Release\Newtonsoft.Json.xml
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Release\OpenTK.xml
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\bin\Release\OpenTK.GLControl.xml
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\obj\Release\ConfigurationWindow.baml
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\obj\Release\MainWindow.baml
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\obj\Release\ConfigurationWindow.g.cs
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\obj\Release\MainWindow.g.cs
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\obj\Release\MapWindow.g.cs
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\obj\Release\VersionWindow.g.cs
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\obj\Release\App.g.cs
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\obj\Release\OBJExporterUI-NoggitEdit_Content.g.cs
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\obj\Release\OBJExporterUI-NoggitEdit_MarkupCompile.cache
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\obj\Release\OBJExporterUI-NoggitEdit_MarkupCompile.lref
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\obj\Release\MapWindow.baml
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\obj\Release\VersionWindow.baml
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\obj\Release\OBJExporterUI-NoggitEdit.g.resources
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\obj\Release\OBJExporterUI.Properties.Resources.resources
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\obj\Release\OBJExporterUI.csproj.GenerateResource.cache
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\obj\Release\OBJExporterUI.csproj.CoreCompileInputs.cache
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\obj\Release\OBJExporterUI.csproj.CopyComplete
+C:\MyProjects\WoWExportTools\WoWExportTools\WoWExportTools\obj\Release\OBJExporterUI-NoggitEdit.exe

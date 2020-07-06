@@ -7,11 +7,11 @@ using System.Windows;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Marlamin's WoW Exporter")]
+[assembly: AssemblyTitle("Marlamin's WoW Exporter + Varen's 735 edit for noggit")]
 [assembly: AssemblyDescription("Exports terrain, models and textures from World of Warcraft")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Marlamin's WoW Exporter")]
+[assembly: AssemblyProduct("Varen's edit for 735 Noggit of Marlamin's WoW Exporter")]
 [assembly: AssemblyCopyright("Copyright © 2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

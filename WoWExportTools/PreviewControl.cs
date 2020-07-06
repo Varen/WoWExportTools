@@ -5,6 +5,7 @@ using OBJExporterUI.Loaders;
 using System.Drawing;
 using OpenTK.Input;
 using System.Collections.Generic;
+using System.IO;
 
 namespace OBJExporterUI
 {
@@ -82,6 +83,9 @@ namespace OBJExporterUI
             adtList = tileList;
         }
 
+        private static string lastWmo = "";
+        private static string lastM2 = "";
+
         public void LoadModel(string filename)
         {
             ready = false;
@@ -105,7 +109,7 @@ namespace OBJExporterUI
                 ActiveCamera.switchMode("perspective");
                 ActiveCamera.Pos = new Vector3((cache.doodadBatches[filename].boundingBox.max.Z) + 11.0f, 0.0f, 4.0f);
                 modelType = "m2";
-
+                lastM2 = filename.Replace("/", "\\");
                 ready = true;
             }
             else if (filename.EndsWith(".wmo"))
@@ -117,7 +121,18 @@ namespace OBJExporterUI
                 ActiveCamera.switchMode("perspective");
                 modelType = "wmo";
 
+                lastWmo = filename.Replace("/","\\");
+
                 ready = true;
+            }
+
+            using (var file = File.OpenWrite("LastFile.log"))
+            {
+                StreamWriter sw = new StreamWriter(file);
+                sw.WriteLine(lastWmo);
+                sw.Write(lastM2);
+                sw.Flush();
+                sw.Close();
             }
         }
 
@@ -126,13 +141,28 @@ namespace OBJExporterUI
             renderCanvas.MakeCurrent();
         }
 
+        private float lastScroll = 0;
         private void Update()
         {
-            if (!renderCanvas.Focused) return;
-
             var mouseState = Mouse.GetState();
+            float scrollVal = mouseState.Scroll.Y;
+
+            if (!renderCanvas.Focused)
+            {
+                lastScroll = scrollVal;
+                return;
+            }
+
             var keyboardState = Keyboard.GetState();
 
+            
+            if (scrollVal != lastScroll)
+            {
+                ActiveCamera.processScrollInput(scrollVal - lastScroll);
+                lastScroll = scrollVal;
+            }
+
+            
             ActiveCamera.processKeyboardInput(keyboardState);
 
             return;
